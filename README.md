@@ -3,15 +3,15 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p>
-  I am a computer engineering student, currently halfway through my degree. 
-  I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. 
-  I love to learn and build something new, productive, innovative and creative.
+  I am a computer engineering student currently in my second year of studies.
+I am expanding my knowledge in back-end development, and I am actively working on personal projects to strengthen my skills.
+I love to learn and build something new, productive, innovative, and creative.
 </p>
 
 <h3>🌱 I’m currently learning ...</h3>
 <ul>
-  <li>Nest.js</li>
-  <li>Angular</li>
+  <li>C#</li>
+  <li>ASP.NET</li>
 </ul>
 
 <p>👯 I’m looking forward to collaborate on open source projects.</p>
