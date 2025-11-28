@@ -19,13 +19,8 @@ I love to learn and build something new, productive, innovative, and creative.
 <p>✔ Ask me about anything, I am happy to help</p>
 
 <p>
-  Outside tech, 💜 I love streaming on Twitch, 🎮 playing videogames, 
+  Outside tech, I love training, 🎮 playing videogames, 
   🎵 listening to music, and 📖 reading science books.
-</p>
-
-<p>
-  👾 Additionally, I create content about programming/technology on my social media, 
-  so feel free to check out my profile!
 </p>
 
 <p>📫 Reach out to me at: <strong>salvesanty206@gmail.com</strong></p>
